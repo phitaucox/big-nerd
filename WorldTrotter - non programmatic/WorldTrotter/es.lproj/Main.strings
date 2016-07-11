@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "C7M-Ik-1rG"; */
+"C7M-Ik-1rG.text" = "es realmente";
+
+/* Class = "UISegmentedControl"; COp-ah-hBe.segmentTitles[0] = "Standard"; ObjectID = "COp-ah-hBe"; */
+"COp-ah-hBe.segmentTitles[0]" = "Estánder";
+
+/* Class = "UISegmentedControl"; COp-ah-hBe.segmentTitles[1] = "Hybrid"; ObjectID = "COp-ah-hBe"; */
+"COp-ah-hBe.segmentTitles[1]" = "Híbrido";
+
+/* Class = "UISegmentedControl"; COp-ah-hBe.segmentTitles[2] = "Satellite"; ObjectID = "COp-ah-hBe"; */
+"COp-ah-hBe.segmentTitles[2]" = "Satélite";
+
+/* Class = "UIViewController"; title = "I"; ObjectID = "Cby-Jt-X4F"; */
+"Cby-Jt-X4F.title" = "I";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "D8w-YH-aWe"; */
+"D8w-YH-aWe.title" = "Mapa";
+
+/* Class = "UILabel"; text = "???"; ObjectID = "Lgw-4F-wsf"; */
+"Lgw-4F-wsf.text" = "???";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "Vlb-wO-aLg"; */
+"Vlb-wO-aLg.text" = "grados Fahrenheit";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "dKn-4h-gsi"; */
+"dKn-4h-gsi.title" = "Convertir";
+
+/* Class = "UILabel"; text = "degrees Celcius"; ObjectID = "gmh-6Z-I6K"; */
+"gmh-6Z-I6K.text" = "grados Celsius";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "nuq-3c-Y6z"; */
+"nuq-3c-Y6z.placeholder" = "valor";
